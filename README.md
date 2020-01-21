@@ -7,6 +7,7 @@
 [![GitHub license](https://img.shields.io/github/license/Edenskull/DriveToS3?color=blue&style=for-the-badge)](https://github.com/Edenskull/DriveToS3/blob/master/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Edenskull/DriveToS3?color=green&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/badge/Python-3.6%20%7C%203.7-yellow?style=for-the-badge)
+![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/Edenskull_DriveToS3?server=https%3A%2F%2Fsonarcloud.io&style=for-the-badge)
 
 </div>
 
