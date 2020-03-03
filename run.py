@@ -78,7 +78,8 @@ if __name__ == '__main__':
         "DuplicateToS3",
         KleenLogger.DEBUG,
         "[%(asctime)s][%(levelname)s] : [%(filename)s][%(funcName)s] : %(message)s",
-        "%Y-%m-%d %H:%M:%S"
+        "%Y-%m-%d %H:%M:%S",
+        "utf-8"
     )
     kleentimer.init_timer("The script has run for {hours}h {minutes}min and {secondes}sec")
     main()
